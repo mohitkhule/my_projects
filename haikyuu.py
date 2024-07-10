@@ -1,1 +1,2 @@
-print('he hinata how are you')
+print('hinata you are tiny ')
+ 
